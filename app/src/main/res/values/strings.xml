@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TictacFirebase</string>
+    <string name="title_activity_tic_tac_toe">TicTacToe</string>
+</resources>
